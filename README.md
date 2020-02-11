@@ -1,1 +1,3 @@
 # gittesting
+
+Gettin Started Git!
